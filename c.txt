@@ -1,3 +1,4 @@
 Hi
 New file created called c.txt
 Adding new line for tesing purpose
+Adding a new line manually
